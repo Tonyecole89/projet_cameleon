@@ -4,8 +4,6 @@
 
 ## Instructions
 
-Voici le résultet à réaliser (MVP):
-
 Le plus important, l'organisation !
 
 Le repo de base contient uniquement les images : c'est à vous de créer l'arborescence de fichiers et dossiers ! 🤓
